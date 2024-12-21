@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="comment.h" />
+		<Unit filename="graph.h" />
+		<Unit filename="post.h" />
+		<Unit filename="user.h" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
